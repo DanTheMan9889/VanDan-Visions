@@ -2,9 +2,9 @@
 
 This Privacy Policy (the "Policy") describes how Salva mobile application (the "App") developed and operated by VanDan Visions (the "Developer") collects, uses, and shares your personal information.
 
-## Personal Information
+## User Data and Personal Information
 
-The Developer does not collect, save, retain, store or share any of your personal information. You have the option to authenticate with Google for the purpose of saving your user generated content to Google Drive. The information you provide them, as well as the content, is subject to their Privacy Policy and Terms of Use.
+The Developer does not collect, save, retain, store or share any of your user data or personal information. You have the option to authenticate with Google to back up your user data to Google Drive, for the purpose of restoring it in cases of data loss or corruption. The information you provide them, as well as the data, is subject to their Privacy Policy and Terms of Use.
 
 ## Contact Information
 
