@@ -34,7 +34,7 @@ The App and all Content are the property of the Developer or its licensors. You 
 You retain ownership of any User-generated Content produced by the App.
 
 ## Privacy Policy
-Your privacy is important to us. Please see our Privacy Policy for information about how we collect, use, and share your personal information.
+Your privacy is important to us. Please see our [Privacy Policy](https://github.com/DanTheMan9889/VanDan-Visions/blob/main/salva-privacy-policy.md) for information about how we collect, use, and share your personal information.
 
 ## Changes to the Terms
 The Developer may modify these Terms at any time. You will be notified of any material changes to the Terms by email or through a notice posted on the App. If you do not agree to the modified Terms, you must stop using the App.
