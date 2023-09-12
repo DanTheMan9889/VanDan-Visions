@@ -4,7 +4,7 @@ This Privacy Policy (the "Policy") describes how Salva mobile application (the "
 
 ## Personal Information
 
-The Developer does not collect, save, retain, store or share any of your personal information. You have the option to authenticate with Google for the purpose of saving your user generated content to your Google Drive. The information you provide them, as well as the content, is subject to their Privacy Policy and Terms of Use.
+The Developer does not collect, save, retain, store or share any of your personal information. You have the option to authenticate with Google for the purpose of saving your user generated content to Google Drive. The information you provide them, as well as the content, is subject to their Privacy Policy and Terms of Use.
 
 ## Contact Information
 
