@@ -1,23 +1,18 @@
 ## Salva
 Welcome to Salva, our privacy minded, minimalist, intuitive and lightweight transaction tracking tool.
+
 Most apps in this category require giving 3rd parties access to your accounts and sensitive financial information. That increases the likelihood of your personal data being compromised during a data breach, and potentially subject you to fraud, spam, and other security risks. Salva requests only minimal access to your local storage and does not collect any personal information.
 You can back up your records to your local storage at any time. Make sure to do so often. You can restore all of your transactions from the backup in case of switching phones or a factory reset.
+
 In addition, you can:
-• Save, edit and remove transactions with ease
-• Use entities and categories to classify and group your transactions
-• Modify or remove your entities and categories at any time
-• Visualize your transactions on a graph or plotted on a calendar
-• Monitor consumption rate, savings rate, and many other useful metrics
-• Filter and sort through your transaction history
-• Search for records using specific criteria
-• Export your transactions to a CSV file
-
-
-
-
-
-
-
+- Save, edit and remove transactions with ease
+- Use entities and categories to classify and group your transactions
+- Modify or remove your entities and categories at any time
+- Visualize your transactions on a graph or plotted on a calendar
+- Monitor consumption rate, savings rate, and many other useful metrics
+- Filter and sort through your transaction history
+- Search for records using specific criteria
+- Export your transactions to a CSV file
 
 ### Privacy Policy
 ##Introduction
@@ -32,13 +27,8 @@ If you have any questions or comments about this Policy, please contact us at Va
 Changes to This Policy
 The Developer may modify this Policy at any time. You will be notified of any material changes to this Policy by email or through a notice posted on the App. If you do not agree to the modified Policy, you must stop using the App.
 
-
-
-
-
-
-Terms of Service
-Introduction
+### Terms of Service
+## Introduction
 These Terms of Service (the "Terms") govern your use of the [app name] mobile application (the "App") developed and operated by [app developer name] (the "Developer"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 Definitions
 "User" means any individual who downloads, installs, or uses the App. "Content" means any text, images, audio, video, or other data that is displayed, transmitted, or stored through the App. "User-generated Content" means Content that is created by a User and submitted to the App.
