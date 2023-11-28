@@ -1,4 +1,4 @@
-## Salva
+# Salva
 Welcome to Salva, our privacy minded, minimalist, intuitive and lightweight transaction tracking tool.
 
 Most apps in this category require giving 3rd parties access to your accounts and sensitive financial information. That increases the likelihood of your personal data being compromised during a data breach, and potentially subject you to fraud, spam, and other security risks. Salva requests only minimal access to your local storage and does not collect any personal information.
