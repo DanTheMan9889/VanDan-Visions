@@ -1,5 +1,5 @@
 ## Introduction
-These Terms of Service (the "Terms") govern your use of the Salva mobile application (the "App") developed and operated by [app developer name] (the "Developer"). By downloading, installing, or using the App, you agree to be bound by these Terms.
+These Terms of Service (the "Terms") govern your use of the Salva mobile application (the "App") developed and operated by VanDanVisions (the "Developer"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 
 ## Definitions
 "User" means any individual who downloads, installs, or uses the App.
