@@ -30,7 +30,7 @@ If you have already updated to V2.0.0 and your app is crashing on launch, don't 
 	- Theme color
 	- Transaction card size
 	- Date format
-	- Default date filter
+	- Date filter
 	- Starting day of week
 - Added option to attach images to transactions
 - Added option to filter for transactions with image attachments
