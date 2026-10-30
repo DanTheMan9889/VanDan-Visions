@@ -26,12 +26,12 @@ If you have already updated to V2.0.0 and your app is crashing on launch, don't 
 
 **2.0.0** Change Log:
 - Added new "Linker" feature that allows linking entities to categories such that, if an entity is linked to a category, the category field will auto-fill with the corresponding category on the Add / Edit Transaction page.
-- Add Preferences section where the user can select the:
-	Theme color
-	Transaction card size
-	Date format
-	Default date filter
-	Starting day of week
+- Add Preferences section where the user can set the default:
+	- Theme color
+	- Transaction card size
+	- Date format
+	- Default date filter
+	- Starting day of week
 - Added option to attach images to transactions
 - Added option to filter for transactions with image attachments
 - Added option to app drawer to export all image attachments
